@@ -1,3 +1,9 @@
 # simple-api-example
 
-A simple exampled of the common REST requests for an API.
+A simple example of the common REST requests for an API.
+
+## Getting started
+
+```
+npm start
+```
